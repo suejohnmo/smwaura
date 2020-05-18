@@ -1,19 +1,19 @@
 # smwaura
 first assignment from moringa
-#project or program name
+# project or program name
 Susan Mwaura Portfolio
-#author name
+# author name
 Susan Mwaura
-#description of project
+# description of project
 Portfolio about me
-#project setup instructions
+# project setup instructions
 Install a terminal
 install Atom
 Create an account on github. Kindly refer to
 Learn how to create css files. Kindly refer to https://www.w3schools.com/css/default.asp
-#link to live site on GitHub Pages
+# link to live site on GitHub Pages
 https://suejohnmo.github.io/smwaura/.
-#copyright and license information
+# copyright and license information
 MIT License
 Copyright (c) 2020 suejohnmo
 
