@@ -1,5 +1,5 @@
 # smwaura
-first assignment from moringa
+first assignment from moringa. please refer to the GitHub https://github.com/suejohnmo/smwaura
 # project or program name
 Susan Mwaura Portfolio
 # author name
